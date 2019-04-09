@@ -1,0 +1,667 @@
+'dormouse'(in test_html1.html) -> trie
+'s'(in test_html1.html) -> trie
+'story'(in test_html1.html) -> trie
+trie: 'dormouse'(in test_html1.html) found in OL: {'test_html1.html'}
+trie: 's'(in test_html1.html) found in OL: {'test_html1.html'}
+trie: 'story'(in test_html1.html) found in OL: {'test_html1.html'}
+'time'(in test_html1.html) -> trie
+'little'(in test_html1.html) -> trie
+'sisters'(in test_html1.html) -> trie
+'names'(in test_html1.html) -> trie
+'elsie'(in test_html1.html) -> trie
+'lived'(in test_html1.html) -> trie
+'bottom'(in test_html1.html) -> trie
+trie: 'dormouse'(in test_html2.html) found in OL: {'test_html1.html', 'test_html2.html'}
+trie: 's'(in test_html2.html) found in OL: {'test_html1.html', 'test_html2.html'}
+trie: 'story'(in test_html2.html) found in OL: {'test_html1.html', 'test_html2.html'}
+trie: 'dormouse'(in test_html2.html) found in OL: {'test_html1.html', 'test_html2.html'}
+trie: 's'(in test_html2.html) found in OL: {'test_html1.html', 'test_html2.html'}
+trie: 'story'(in test_html2.html) found in OL: {'test_html1.html', 'test_html2.html'}
+'stevens'(in test_html2.html) -> trie
+'institute'(in test_html2.html) -> trie
+'technology'(in test_html2.html) -> trie
+'sit'(in test_html2.html) -> trie
+'private'(in test_html2.html) -> trie
+'coeducational'(in test_html2.html) -> trie
+'research'(in test_html2.html) -> trie
+'university'(in test_html2.html) -> trie
+'located'(in test_html2.html) -> trie
+'hoboken'(in test_html2.html) -> trie
+'new'(in test_html2.html) -> trie
+'jersey'(in test_html2.html) -> trie
+'united'(in test_html2.html) -> trie
+'states'(in test_html2.html) -> trie
+trie: 'university'(in test_html2.html) found in OL: {'test_html2.html'}
+'also'(in test_html2.html) -> trie
+'satellite'(in test_html2.html) -> trie
+'location'(in test_html2.html) -> trie
+'washington'(in test_html2.html) -> trie
+'d'(in test_html2.html) -> trie
+'c'(in test_html2.html) -> trie
+'incorporated'(in test_html2.html) -> trie
+'1870'(in test_html2.html) -> trie
+'oldest'(in test_html2.html) -> trie
+'technological'(in test_html2.html) -> trie
+'universities'(in test_html2.html) -> trie
+trie: 'united'(in test_html2.html) found in OL: {'test_html2.html'}
+trie: 'states'(in test_html2.html) found in OL: {'test_html2.html'}
+'college'(in test_html2.html) -> trie
+'america'(in test_html2.html) -> trie
+'solely'(in test_html2.html) -> trie
+'dedicated'(in test_html2.html) -> trie
+'mechanical'(in test_html2.html) -> trie
+'engineering'(in test_html2.html) -> trie
+'7'(in test_html2.html) -> trie
+'campus'(in test_html2.html) -> trie
+'encompasses'(in test_html2.html) -> trie
+'castle'(in test_html2.html) -> trie
+'point'(in test_html2.html) -> trie
+'highest'(in test_html2.html) -> trie
+trie: 'point'(in test_html2.html) found in OL: {'test_html2.html'}
+trie: 'hoboken'(in test_html2.html) found in OL: {'test_html2.html'}
+'buildings'(in test_html2.html) -> trie
+'city'(in test_html2.html) -> trie
+'founded'(in test_html2.html) -> trie
+'1868'(in test_html2.html) -> trie
+'bequest'(in test_html2.html) -> trie
+'edwin'(in test_html2.html) -> trie
+'augustus'(in test_html2.html) -> trie
+trie: 'stevens'(in test_html2.html) found in OL: {'test_html2.html'}
+'8'(in test_html2.html) -> trie
+'enrollment'(in test_html2.html) -> trie
+trie: 'stevens'(in test_html2.html) found in OL: {'test_html2.html'}
+'includes'(in test_html2.html) -> trie
+'5'(in test_html2.html) -> trie
+'000'(in test_html2.html) -> trie
+'undergraduate'(in test_html2.html) -> trie
+'graduate'(in test_html2.html) -> trie
+'students'(in test_html2.html) -> trie
+'representing'(in test_html2.html) -> trie
+'47'(in test_html2.html) -> trie
+trie: 'states'(in test_html2.html) found in OL: {'test_html2.html'}
+'60'(in test_html2.html) -> trie
+'countries'(in test_html2.html) -> trie
+'asia'(in test_html2.html) -> trie
+'europe'(in test_html2.html) -> trie
+'latin'(in test_html2.html) -> trie
+trie: 'america'(in test_html2.html) found in OL: {'test_html2.html'}
+'6'(in test_html2.html) -> trie
+trie: 'university'(in test_html2.html) found in OL: {'test_html2.html'}
+'home'(in test_html2.html) -> trie
+'national'(in test_html2.html) -> trie
+'centers'(in test_html2.html) -> trie
+'excellence'(in test_html2.html) -> trie
+'designated'(in test_html2.html) -> trie
+'u'(in test_html2.html) -> trie
+trie: 's'(in test_html2.html) found in OL: {'test_html1.html', 'test_html2.html'}
+'department'(in test_html2.html) -> trie
+'defense'(in test_html2.html) -> trie
+trie: 'u'(in test_html2.html) found in OL: {'test_html2.html'}
+trie: 's'(in test_html2.html) found in OL: {'test_html1.html', 'test_html2.html'}
+trie: 'department'(in test_html2.html) found in OL: {'test_html2.html'}
+'homeland'(in test_html2.html) -> trie
+'security'(in test_html2.html) -> trie
+'9'(in test_html2.html) -> trie
+'10'(in test_html2.html) -> trie
+'11'(in test_html2.html) -> trie
+'members'(in test_html2.html) -> trie
+trie: 'stevens'(in test_html2.html) found in OL: {'test_html2.html'}
+'community'(in test_html2.html) -> trie
+'alumni'(in test_html2.html) -> trie
+'faculty'(in test_html2.html) -> trie
+'awarded'(in test_html2.html) -> trie
+'nobel'(in test_html2.html) -> trie
+'prize'(in test_html2.html) -> trie
+'frederick'(in test_html2.html) -> trie
+'reines'(in test_html2.html) -> trie
+'class'(in test_html2.html) -> trie
+'1939'(in test_html2.html) -> trie
+'physics'(in test_html2.html) -> trie
+'irving'(in test_html2.html) -> trie
+'langmuir'(in test_html2.html) -> trie
+'chemistry'(in test_html2.html) -> trie
+trie: 'faculty'(in test_html2.html) found in OL: {'test_html2.html'}
+'1906�'(in test_html2.html) -> trie
+'1909'(in test_html2.html) -> trie
+trie: 'chemistry'(in test_html2.html) found in OL: {'test_html2.html'}
+'12'(in test_html2.html) -> trie
+'dr'(in test_html2.html) -> trie
+'nariman'(in test_html2.html) -> trie
+'farvardin'(in test_html2.html) -> trie
+'seventh'(in test_html2.html) -> trie
+'president'(in test_html2.html) -> trie
+trie: 'stevens'(in test_html2.html) found in OL: {'test_html2.html'}
+'took'(in test_html2.html) -> trie
+'office'(in test_html2.html) -> trie
+'july'(in test_html2.html) -> trie
+'1'(in test_html2.html) -> trie
+'2011'(in test_html2.html) -> trie
+'13'(in test_html2.html) -> trie
+trie: 'dormouse'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+trie: 'story'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+trie: 'dormouse'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+trie: 'story'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'establishment'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'family'(in test_html3.html) -> trie
+'edit'(in test_html3.html) -> trie
+'external'(in test_html3.html) -> trie
+'video'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'auditorium'(in test_html3.html) -> trie
+trie: 'hoboken'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'summer'(in test_html3.html) -> trie
+'jeh'(in test_html3.html) -> trie
+'jpg'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'institute'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'technology'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'campus'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'tour'(in test_html3.html) -> trie
+'wanda'(in test_html3.html) -> trie
+'kaluza'(in test_html3.html) -> trie
+'november'(in test_html3.html) -> trie
+trie: '8'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'2014'(in test_html3.html) -> trie
+'3'(in test_html3.html) -> trie
+'57'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'institute'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'technology'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'named'(in test_html3.html) -> trie
+trie: 'family'(in test_html3.html) found in OL: {'test_html3.html'}
+'accomplished'(in test_html3.html) -> trie
+'inventors'(in test_html3.html) -> trie
+'engineers'(in test_html3.html) -> trie
+trie: 'also'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'oversaw'(in test_html3.html) -> trie
+'development'(in test_html3.html) -> trie
+trie: 'hoboken'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'old'(in test_html3.html) -> trie
+'farm'(in test_html3.html) -> trie
+'thriving'(in test_html3.html) -> trie
+trie: 'city'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'14'(in test_html3.html) -> trie
+'1784'(in test_html3.html) -> trie
+'land'(in test_html3.html) -> trie
+'occupied'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'institute'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'technology'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'purchased'(in test_html3.html) -> trie
+'john'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'15'(in test_html3.html) -> trie
+'later'(in test_html3.html) -> trie
+'reverse'(in test_html3.html) -> trie
+'engineer'(in test_html3.html) -> trie
+'british'(in test_html3.html) -> trie
+'steam'(in test_html3.html) -> trie
+'locomotive'(in test_html3.html) -> trie
+'american'(in test_html3.html) -> trie
+'standards'(in test_html3.html) -> trie
+'domestic'(in test_html3.html) -> trie
+'manufacture'(in test_html3.html) -> trie
+'innovation'(in test_html3.html) -> trie
+'be'(in test_html3.html) -> trie
+'employed'(in test_html3.html) -> trie
+'ferries'(in test_html3.html) -> trie
+'manhattan'(in test_html3.html) -> trie
+'run'(in test_html3.html) -> trie
+trie: 'hoboken'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'piers'(in test_html3.html) -> trie
+'16'(in test_html3.html) -> trie
+'robert'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'john'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'sons'(in test_html3.html) -> trie
+'invented'(in test_html3.html) -> trie
+'flanged'(in test_html3.html) -> trie
+'t'(in test_html3.html) -> trie
+'rail'(in test_html3.html) -> trie
+'form'(in test_html3.html) -> trie
+'railroad'(in test_html3.html) -> trie
+trie: 'rail'(in test_html3.html) found in OL: {'test_html3.html'}
+'prevalent'(in test_html3.html) -> trie
+'use'(in test_html3.html) -> trie
+'today'(in test_html3.html) -> trie
+'including'(in test_html3.html) -> trie
+'lackawanna'(in test_html3.html) -> trie
+'terminal'(in test_html3.html) -> trie
+trie: 'hoboken'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'docks'(in test_html3.html) -> trie
+trie: 'also'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'style'(in test_html3.html) -> trie
+'designed'(in test_html3.html) -> trie
+trie: 'robert'(in test_html3.html) found in OL: {'test_html3.html'}
+'brother'(in test_html3.html) -> trie
+trie: 'edwin'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'robert'(in test_html3.html) found in OL: {'test_html3.html'}
+'created'(in test_html3.html) -> trie
+trie: 'america'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'commercial'(in test_html3.html) -> trie
+trie: 'railroad'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: '15'(in test_html3.html) found in OL: {'test_html3.html'}
+'presently'(in test_html3.html) -> trie
+'operating'(in test_html3.html) -> trie
+'large'(in test_html3.html) -> trie
+'portion'(in test_html3.html) -> trie
+'amtrak�'(in test_html3.html) -> trie
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'northeast'(in test_html3.html) -> trie
+'corridor'(in test_html3.html) -> trie
+trie: 'john'(in test_html3.html) found in OL: {'test_html3.html'}
+'cox'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'john'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'eldest'(in test_html3.html) -> trie
+'son'(in test_html3.html) -> trie
+'commodore'(in test_html3.html) -> trie
+trie: 'new'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'york'(in test_html3.html) -> trie
+'yacht'(in test_html3.html) -> trie
+'club'(in test_html3.html) -> trie
+'17'(in test_html3.html) -> trie
+trie: 'brother'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'edwin'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'built'(in test_html3.html) -> trie
+trie: 'yacht'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'america'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'aboard'(in test_html3.html) -> trie
+'1851'(in test_html3.html) -> trie
+'regatta'(in test_html3.html) -> trie
+'victory'(in test_html3.html) -> trie
+'england'(in test_html3.html) -> trie
+trie: 'later'(in test_html3.html) found in OL: {'test_html3.html'}
+'recognized'(in test_html3.html) -> trie
+'winner'(in test_html3.html) -> trie
+trie: 'america'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'cup'(in test_html3.html) -> trie
+trie: '17'(in test_html3.html) found in OL: {'test_html3.html'}
+'18'(in test_html3.html) -> trie
+'19'(in test_html3.html) -> trie
+'competition'(in test_html3.html) -> trie
+'bears'(in test_html3.html) -> trie
+'namesake'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'yacht'(in test_html3.html) found in OL: {'test_html3.html'}
+'ny'(in test_html3.html) -> trie
+trie: 'yacht'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'club'(in test_html3.html) found in OL: {'test_html3.html'}
+'defend'(in test_html3.html) -> trie
+'title'(in test_html3.html) -> trie
+'1983'(in test_html3.html) -> trie
+'race'(in test_html3.html) -> trie
+trie: 'edwin'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'died'(in test_html3.html) -> trie
+trie: '1868'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'left'(in test_html3.html) -> trie
+trie: 'bequest'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'establishment'(in test_html3.html) found in OL: {'test_html3.html'}
+'institution'(in test_html3.html) -> trie
+'learning'(in test_html3.html) -> trie
+'providing'(in test_html3.html) -> trie
+'trustees'(in test_html3.html) -> trie
+trie: 'land'(in test_html3.html) found in OL: {'test_html3.html'}
+'funds'(in test_html3.html) -> trie
+'20'(in test_html3.html) -> trie
+'edwin�'(in test_html3.html) -> trie
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'executed'(in test_html3.html) -> trie
+'surviving'(in test_html3.html) -> trie
+'wife'(in test_html3.html) -> trie
+'martha'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'also'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'serve'(in test_html3.html) -> trie
+'lifetime'(in test_html3.html) -> trie
+'trustee'(in test_html3.html) -> trie
+trie: 'institute'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'martha'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'oversaw'(in test_html3.html) found in OL: {'test_html3.html'}
+'family�'(in test_html3.html) -> trie
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'philanthropy'(in test_html3.html) -> trie
+trie: 'city'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'hoboken'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'including'(in test_html3.html) found in OL: {'test_html3.html'}
+'founding'(in test_html3.html) -> trie
+'church'(in test_html3.html) -> trie
+'holy'(in test_html3.html) -> trie
+'innocents'(in test_html3.html) -> trie
+'free'(in test_html3.html) -> trie
+'episcopal'(in test_html3.html) -> trie
+trie: 'church'(in test_html3.html) found in OL: {'test_html3.html'}
+'foundling'(in test_html3.html) -> trie
+'hospital'(in test_html3.html) -> trie
+'birthing'(in test_html3.html) -> trie
+'center'(in test_html3.html) -> trie
+'st'(in test_html3.html) -> trie
+'mary'(in test_html3.html) -> trie
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+trie: 'hospital'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'robert'(in test_html3.html) found in OL: {'test_html3.html'}
+'l'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'fund'(in test_html3.html) -> trie
+'municipal'(in test_html3.html) -> trie
+trie: 'research'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'manual'(in test_html3.html) -> trie
+'training'(in test_html3.html) -> trie
+'schools'(in test_html3.html) -> trie
+'boys'(in test_html3.html) -> trie
+'young'(in test_html3.html) -> trie
+'girls'(in test_html3.html) -> trie
+trie: 'hoboken'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'hoboken'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'public'(in test_html3.html) -> trie
+'library'(in test_html3.html) -> trie
+trie: 'manual'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'training'(in test_html3.html) found in OL: {'test_html3.html'}
+'school'(in test_html3.html) -> trie
+'21'(in test_html3.html) -> trie
+'early'(in test_html3.html) -> trie
+'years'(in test_html3.html) -> trie
+trie: 'edit'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'institute'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'technology'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'opened'(in test_html3.html) -> trie
+trie: '1870'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'initially'(in test_html3.html) -> trie
+trie: 'dedicated'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'mechanical'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'engineering'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: '15'(in test_html3.html) found in OL: {'test_html3.html'}
+'original'(in test_html3.html) -> trie
+'course'(in test_html3.html) -> trie
+'study'(in test_html3.html) -> trie
+'single'(in test_html3.html) -> trie
+'rigorous'(in test_html3.html) -> trie
+'curriculum'(in test_html3.html) -> trie
+'based'(in test_html3.html) -> trie
+'european'(in test_html3.html) -> trie
+'polytechnic'(in test_html3.html) -> trie
+'model'(in test_html3.html) -> trie
+trie: 'engineering'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'science'(in test_html3.html) -> trie
+'following'(in test_html3.html) -> trie
+'french'(in test_html3.html) -> trie
+'german'(in test_html3.html) -> trie
+'scientific'(in test_html3.html) -> trie
+trie: 'polytechnic'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'schools'(in test_html3.html) found in OL: {'test_html3.html'}
+'shop'(in test_html3.html) -> trie
+trie: 'schools'(in test_html3.html) found in OL: {'test_html3.html'}
+'common'(in test_html3.html) -> trie
+trie: 'time'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html'}
+trie: '15'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'mechanical'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'engineer'(in test_html3.html) found in OL: {'test_html3.html'}
+'m'(in test_html3.html) -> trie
+'e'(in test_html3.html) -> trie
+trie: 'original'(in test_html3.html) found in OL: {'test_html3.html'}
+'degree'(in test_html3.html) -> trie
+'offered'(in test_html3.html) -> trie
+'addition'(in test_html3.html) -> trie
+'ph'(in test_html3.html) -> trie
+trie: 'd'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'mechanical'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'engineering'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'chemistry'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'physics'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'granted'(in test_html3.html) -> trie
+trie: 'ph'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'd'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+trie: '1870'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'1900'(in test_html3.html) -> trie
+'making'(in test_html3.html) -> trie
+'earliest'(in test_html3.html) -> trie
+trie: 'ph'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'd'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'granting'(in test_html3.html) -> trie
+'institutions'(in test_html3.html) -> trie
+trie: 'united'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'states'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'22'(in test_html3.html) -> trie
+'broad'(in test_html3.html) -> trie
+trie: 'based'(in test_html3.html) found in OL: {'test_html3.html'}
+'interdisciplinary'(in test_html3.html) -> trie
+'philosophy'(in test_html3.html) -> trie
+'practice'(in test_html3.html) -> trie
+'founders'(in test_html3.html) -> trie
+'graduating'(in test_html3.html) -> trie
+trie: 'class'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'despite'(in test_html3.html) -> trie
+trie: 'title'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'degree'(in test_html3.html) found in OL: {'test_html3.html'}
+'concentration'(in test_html3.html) -> trie
+trie: 'mechanical'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'engineering'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'curriculum'(in test_html3.html) found in OL: {'test_html3.html'}
+'included'(in test_html3.html) -> trie
+'courses'(in test_html3.html) -> trie
+trie: 'engineering'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'disciplines'(in test_html3.html) -> trie
+trie: 'time'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html'}
+trie: 'mechanical'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'civil'(in test_html3.html) -> trie
+'chemical'(in test_html3.html) -> trie
+'electrical'(in test_html3.html) -> trie
+'1880'(in test_html3.html) -> trie
+trie: 'robert'(in test_html3.html) found in OL: {'test_html3.html'}
+'h'(in test_html3.html) -> trie
+'thurston'(in test_html3.html) -> trie
+'professor'(in test_html3.html) -> trie
+trie: 'mechanical'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'engineering'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'nominated'(in test_html3.html) -> trie
+trie: 'president'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'american'(in test_html3.html) found in OL: {'test_html3.html'}
+'society'(in test_html3.html) -> trie
+trie: 'mechanical'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'engineers'(in test_html3.html) found in OL: {'test_html3.html'}
+'23'(in test_html3.html) -> trie
+trie: 'campus'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'began'(in test_html3.html) -> trie
+'edge'(in test_html3.html) -> trie
+trie: 'family'(in test_html3.html) found in OL: {'test_html3.html'}
+'estate'(in test_html3.html) -> trie
+trie: 'castle'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'point'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'hoboken'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'occupied'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 'single'(in test_html3.html) found in OL: {'test_html3.html'}
+'building'(in test_html3.html) -> trie
+trie: 'designated'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'edwin'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'building'(in test_html3.html) found in OL: {'test_html3.html'}
+'federal'(in test_html3.html) -> trie
+'historical'(in test_html3.html) -> trie
+'landmark'(in test_html3.html) -> trie
+'24'(in test_html3.html) -> trie
+'stone'(in test_html3.html) -> trie
+'designs'(in test_html3.html) -> trie
+trie: 'building'(in test_html3.html) found in OL: {'test_html3.html'}
+trie: 's'(in test_html3.html) found in OL: {'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'facade'(in test_html3.html) -> trie
+'believed'(in test_html3.html) -> trie
+trie: 'be'(in test_html3.html) found in OL: {'test_html3.html'}
+'derived'(in test_html3.html) -> trie
+'pattern'(in test_html3.html) -> trie
+'repeated'(in test_html3.html) -> trie
+'floor'(in test_html3.html) -> trie
+'mosaic'(in test_html3.html) -> trie
+'hagia'(in test_html3.html) -> trie
+'sophia'(in test_html3.html) -> trie
+'great'(in test_html3.html) -> trie
+'cathedral'(in test_html3.html) -> trie
+'istanbul'(in test_html3.html) -> trie
+trie: 'edwin'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'believed'(in test_html3.html) found in OL: {'test_html3.html'}
+'visited'(in test_html3.html) -> trie
+'late'(in test_html3.html) -> trie
+'19th'(in test_html3.html) -> trie
+'century'(in test_html3.html) -> trie
+'1906'(in test_html3.html) -> trie
+trie: 'students'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'guidance'(in test_html3.html) -> trie
+trie: 'president'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'humphreys'(in test_html3.html) -> trie
+trie: 'created'(in test_html3.html) found in OL: {'test_html3.html'}
+'honor'(in test_html3.html) -> trie
+'�'(in test_html3.html) -> trie
+'moral'(in test_html3.html) -> trie
+'ethical'(in test_html3.html) -> trie
+'code'(in test_html3.html) -> trie
+'governing'(in test_html3.html) -> trie
+'life'(in test_html3.html) -> trie
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'students'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'preaching'(in test_html3.html) -> trie
+'equality'(in test_html3.html) -> trie
+'honest'(in test_html3.html) -> trie
+'work'(in test_html3.html) -> trie
+trie: '15'(in test_html3.html) found in OL: {'test_html3.html'}
+'student'(in test_html3.html) -> trie
+trie: 'run'(in test_html3.html) found in OL: {'test_html3.html'}
+'exists'(in test_html3.html) -> trie
+'day'(in test_html3.html) -> trie
+'accused'(in test_html3.html) -> trie
+'tried'(in test_html3.html) -> trie
+'peers'(in test_html3.html) -> trie
+'punishment'(in test_html3.html) -> trie
+'recommended'(in test_html3.html) -> trie
+trie: 'faculty'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+trie: 'stevens'(in test_html3.html) found in OL: {'test_html3.html', 'test_html2.html'}
+'technical'(in test_html3.html) -> trie
+trie: 'school'(in test_html3.html) found in OL: {'test_html3.html'}
+'implement'(in test_html3.html) -> trie
+'25'(in test_html3.html) -> trie
+trie: 'dormouse'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html', 'test_html3.html', 'test_html1.html', 'test_html2.html'}
+trie: 's'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html', 'test_html3.html', 'test_html1.html', 'test_html2.html'}
+trie: 'story'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html', 'test_html3.html', 'test_html1.html', 'test_html2.html'}
+'computer'(in ./folder/test_html4.html) -> trie
+trie: 'science'(in ./folder/test_html4.html) found in OL: {'test_html3.html', './folder/test_html4.html'}
+'trie'(in ./folder/test_html4.html) -> trie
+trie: 'also'(in ./folder/test_html4.html) found in OL: {'test_html3.html', './folder/test_html4.html', 'test_html2.html'}
+'called'(in ./folder/test_html4.html) -> trie
+'digital'(in ./folder/test_html4.html) -> trie
+'tree'(in ./folder/test_html4.html) -> trie
+'radix'(in ./folder/test_html4.html) -> trie
+trie: 'tree'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'prefix'(in ./folder/test_html4.html) -> trie
+trie: 'tree'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'be'(in ./folder/test_html4.html) found in OL: {'test_html3.html', './folder/test_html4.html'}
+'searched'(in ./folder/test_html4.html) -> trie
+'prefixes'(in ./folder/test_html4.html) -> trie
+'kind'(in ./folder/test_html4.html) -> trie
+'search'(in ./folder/test_html4.html) -> trie
+'tree�'(in ./folder/test_html4.html) -> trie
+'ordered'(in ./folder/test_html4.html) -> trie
+trie: 'tree'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'data'(in ./folder/test_html4.html) -> trie
+'structure'(in ./folder/test_html4.html) -> trie
+'used'(in ./folder/test_html4.html) -> trie
+'store'(in ./folder/test_html4.html) -> trie
+'dynamic'(in ./folder/test_html4.html) -> trie
+'set'(in ./folder/test_html4.html) -> trie
+'associative'(in ./folder/test_html4.html) -> trie
+'array'(in ./folder/test_html4.html) -> trie
+'keys'(in ./folder/test_html4.html) -> trie
+'usually'(in ./folder/test_html4.html) -> trie
+'strings'(in ./folder/test_html4.html) -> trie
+'unlike'(in ./folder/test_html4.html) -> trie
+'binary'(in ./folder/test_html4.html) -> trie
+trie: 'search'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'tree'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'node'(in ./folder/test_html4.html) -> trie
+trie: 'tree'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'stores'(in ./folder/test_html4.html) -> trie
+'key'(in ./folder/test_html4.html) -> trie
+'associated'(in ./folder/test_html4.html) -> trie
+trie: 'node'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'instead'(in ./folder/test_html4.html) -> trie
+'position'(in ./folder/test_html4.html) -> trie
+trie: 'tree'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'defines'(in ./folder/test_html4.html) -> trie
+trie: 'key'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'associated'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'descendants'(in ./folder/test_html4.html) -> trie
+trie: 'node'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'common'(in ./folder/test_html4.html) found in OL: {'test_html3.html', './folder/test_html4.html'}
+trie: 'prefix'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'string'(in ./folder/test_html4.html) -> trie
+trie: 'associated'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'node'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'root'(in ./folder/test_html4.html) -> trie
+trie: 'associated'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'string'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'values'(in ./folder/test_html4.html) -> trie
+'necessarily'(in ./folder/test_html4.html) -> trie
+trie: 'associated'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'node'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'values'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'tend'(in ./folder/test_html4.html) -> trie
+trie: 'be'(in ./folder/test_html4.html) found in OL: {'test_html3.html', './folder/test_html4.html'}
+trie: 'associated'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'leaves'(in ./folder/test_html4.html) -> trie
+'inner'(in ./folder/test_html4.html) -> trie
+'nodes'(in ./folder/test_html4.html) -> trie
+'correspond'(in ./folder/test_html4.html) -> trie
+trie: 'keys'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'space'(in ./folder/test_html4.html) -> trie
+'optimized'(in ./folder/test_html4.html) -> trie
+'presentation'(in ./folder/test_html4.html) -> trie
+trie: 'prefix'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'tree'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'compact'(in ./folder/test_html4.html) -> trie
+trie: 'prefix'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'tree'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'example'(in ./folder/test_html4.html) -> trie
+'shown'(in ./folder/test_html4.html) -> trie
+trie: 'keys'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'listed'(in ./folder/test_html4.html) -> trie
+trie: 'nodes'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'values'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'complete'(in ./folder/test_html4.html) -> trie
+'english'(in ./folder/test_html4.html) -> trie
+'word'(in ./folder/test_html4.html) -> trie
+'arbitrary'(in ./folder/test_html4.html) -> trie
+'integer'(in ./folder/test_html4.html) -> trie
+'value'(in ./folder/test_html4.html) -> trie
+trie: 'associated'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'trie'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'be'(in ./folder/test_html4.html) found in OL: {'test_html3.html', './folder/test_html4.html'}
+'seen'(in ./folder/test_html4.html) -> trie
+trie: 'tree'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'shaped'(in ./folder/test_html4.html) -> trie
+'deterministic'(in ./folder/test_html4.html) -> trie
+'finite'(in ./folder/test_html4.html) -> trie
+'automaton'(in ./folder/test_html4.html) -> trie
+trie: 'finite'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'language'(in ./folder/test_html4.html) -> trie
+'generated'(in ./folder/test_html4.html) -> trie
+trie: 'trie'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'automaton'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'trie'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+trie: 'be'(in ./folder/test_html4.html) found in OL: {'test_html3.html', './folder/test_html4.html'}
+'compressed'(in ./folder/test_html4.html) -> trie
+trie: 'deterministic'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'acyclic'(in ./folder/test_html4.html) -> trie
+trie: 'finite'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
+'state'(in ./folder/test_html4.html) -> trie
+trie: 'automaton'(in ./folder/test_html4.html) found in OL: {'./folder/test_html4.html'}
